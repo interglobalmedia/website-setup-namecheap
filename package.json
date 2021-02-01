@@ -1,0 +1,23 @@
+{
+  "name": "website-setup-namecheap",
+  "version": "1.0.0",
+  "description": "How to set up your website on namecheap.com with namecheap domain registration and hosting",
+  "main": "index.js",
+  "scripts": {
+    "slides": "npx reveal-md website-setup-namecheap.md",
+    "customcss": "npx reveal-md website-setup-namecheap.md --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/website-setup-namecheap.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/website-setup-namecheap/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/website-setup-namecheap#readme",
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
