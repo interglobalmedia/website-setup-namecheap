@@ -123,4 +123,6 @@ You can ***enhance*** the ***overall*** security of your `data` and ***prevent**
 
 + [How to Set Up, Use, and Build Your Website: Your Quick Start Guide to Shared Hosting on Namecheap](https://www.namecheap.com/hosting/how-to-set-up-hosting-account/)
 
++ [Domains: Namecheap](https://www.namecheap.com/support/knowledgebase/category/34/domains/)
+
 </section>
