@@ -4,6 +4,41 @@
 ---
 
 <section class="section">
+    <h2 class="sentence">Creating an account on Namecheap</h2>
+
+To ***create*** an ***account*** on `Namecheap`, got to the `Namecheap` [Sign Up](https://www.namecheap.com/myaccount/signup/) ***link***.
+
+***Fill*** out the ***required*** fields, and ***click*** on `Create Account and Continue`.
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">Registering a domain with Namecheap</h2>
+
+When you have successfully ***created*** your ***account*** and ***logged in***, you will be ***taken*** to your `Profile Dashboard`. ***Click*** on the `Domains` ***tab*** in the `Namecheap` ***navigation menu***. The ***following*** will ***appear***:
+
+<div>
+    <img src="images/namecheap_domain_registration.png" alt="Namecheap domain registration">
+</div>
+
+***Next***, go through the ***steps*** of ***registering*** a `domain`.
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">Choosing a hosting plan</h2>
+
+When you have completed ***registering*** a ***domain***, ***click*** on the `Hosting` ***tab*** of the `Namecheap` ***navigation menu***, and ***select*** the `Shared Hosting` ***option***. ***Choose*** the `Stellar` ***plan*** to the ***left*** for `$1.58` a ***month***, and when you go to ***check out***, ***choose*** to ***pay*** on a ***monthly basis***. That way, you won't be potentially ***locked*** in to ***hosting*** for a ***longer*** period of time ***than*** you ***want*** (i.e., beyond the duration of the class). ***However***, you ***must*** have the ***hosting*** for the ***duration*** of the ***class***!
+
+</section>
+
+---
+
+<section class="section">
     <h2 class="sentence">Connecting your Namecheap domain to your Namecheap hosting</h2>
 
 Once you have ***created*** your ***account*** on [namecheap.com](https://www.namecheap.com/), have ***purchased*** a `domain` and `hosting package` with them, you are ***ready*** to [connect](https://www.namecheap.com/hosting/how-to-set-up-hosting-account/) your `domain` to your `Namecheap` ***hosting***.
@@ -40,7 +75,7 @@ Once you have ***created*** your ***account*** on [namecheap.com](https://www.na
 <section class="section"> 
     <h2 class="sentence">Choose a tool to build your web site</h2>
 
-To ***help*** you ***easily*** manage all the ***great*** services your `Shared Hosting` account ***offers***, we have a ***handy*** feature in place called `cPanel` (control panel). It ***allows*** you to ***build*** and ***manage*** your `web site` as well as ***manage*** `web mail`, `SSL` ***certificates*** and ***more***. You can ***easily*** log in to `cPanel` ***directly*** from your `Namecheap Account Panel`.
+To ***help*** you ***easily*** manage all the ***great*** services your `Shared Hosting` account ***offers***, `Namecheap` has a ***handy*** feature in place ***called*** `cPanel` (control panel). It ***allows*** you to ***build*** and ***manage*** your `web site` as well as ***manage*** `web mail`, `SSL` ***certificates*** and ***more***. You can ***easily*** log in to `cPanel` ***directly*** from your `Namecheap Account Panel`.
 
 To ***do so***, ***select*** `Domain List` with `"All Products"` ***view***, ***hover over*** the `Hosting` ***icon***, ***select*** `"Manage"` from the `drop-down` ***menu***, and ***click*** `"Go to cPanel"`.
 
@@ -59,7 +94,7 @@ It ***may*** take up to `30 minutes` for your ***new*** hosting account to be **
 <section class="section">
     <h2 class="sentence">Ensuring the safety of your web site: enabling SSL</h2>
 
-[SSL](https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https) (aka secure sockets layer) is the ***standardized*** form of ***encryption*** for `web sites`. `SSL` certificates ***keep*** your data ***secure*** between ***servers***, even ***helping*** your `Google SEO` ***ranking***.
+[SSL](https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https) (aka `secure sockets layer`) is the ***standardized*** form of ***encryption*** for `web sites`. `SSL` certificates ***keep*** your data ***secure*** between ***servers***, even ***helping*** your `Google SEO` ***ranking***.
 
 </section>
 
